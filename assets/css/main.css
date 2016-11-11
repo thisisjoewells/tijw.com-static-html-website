@@ -2455,8 +2455,8 @@
 		}
 
 		.work-item p {
-			font-size: 0.8em;
-			line-height: 1.5em;
+			font-size: 1em; /* was .8 em - JW change - */
+			line-height: 1.6em; /* was 1.5 em - JW change - */
 			margin: 0;
 		}
 
